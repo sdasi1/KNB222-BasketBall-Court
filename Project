@@ -1,0 +1,6 @@
+echo "# KNB222-BasketBall-Court" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sdasi1/KNB222-BasketBall-Court.git
+git push -u origin master
